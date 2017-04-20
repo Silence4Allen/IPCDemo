@@ -1,4 +1,4 @@
-package com.allen.demo.ipcdemo;
+package com.allen.demo.ipc;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
